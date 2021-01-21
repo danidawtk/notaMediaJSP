@@ -26,6 +26,6 @@
             miMedia.setNota3(nota3);
         %>
         <h2>Nombre: <%=nombreal%> </h2>
-        <h2>Area: <%=miMedia.getMedia() %> </h2>
+        <h2>Nota media: <%=miMedia.getMedia() %> </h2>
     </body>
 </html>
